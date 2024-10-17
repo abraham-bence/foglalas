@@ -1,0 +1,14 @@
+body {
+    background-color: #55545C;
+}
+div.center {
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    background-color: #F3F7F7;
+    border-radius: 10px;
+}
+
+.alert_show{
+    display: block;
+}
